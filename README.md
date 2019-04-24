@@ -1,29 +1,16 @@
 # project
 
-## Project setup
+## 安装模块
 ```
 yarn
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run electron:serve
 ```
 
-### Run your tests
+### 打包项目
 ```
-npm run test
+npm run electron:build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
